@@ -8,5 +8,5 @@
 
 ## 工具箱
 
-* [活动页面-模拟](gong-ju-xiang/huo-dong-ye-mian-mo-ni.md)
+* [活动页面-模拟](gong-ju-xiang/1.md)
 * [2](gong-ju-xiang/2.md)
