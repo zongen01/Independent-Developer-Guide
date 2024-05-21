@@ -9,4 +9,4 @@
 ## 工具箱
 
 * [活动页面-模拟](gong-ju-xiang/1.md)
-* [2](gong-ju-xiang/2.md)
+* [关于](gong-ju-xiang/guan-yu.md)
