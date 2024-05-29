@@ -20,12 +20,16 @@ V2ex：[https://www.v2ex.com](https://www.v2ex.com/)
 
 腾讯云加：[https://cloud.tencent.com/developer](https://cloud.tencent.com/developer)
 
-华为云社区：[https://bbs.huaweicloud.com/](https://bbs.huaweicloud.com/)
+华为云：[https://bbs.huaweicloud.com/](https://bbs.huaweicloud.com/)
 
-阿里云社区：[https://developer.aliyun.com/?spm=a2c6h.12883283.J\_eBhO-wcawiLJRkGqHmozR.1.a0cb4307QzARKA](https://developer.aliyun.com/?spm=a2c6h.12883283.J\_eBhO-wcawiLJRkGqHmozR.1.a0cb4307QzARKA)
+阿里云：[https://developer.aliyun.com/?spm=a2c6h.12883283.J\_eBhO-wcawiLJRkGqHmozR.1.a0cb4307QzARKA](https://developer.aliyun.com/?spm=a2c6h.12883283.J\_eBhO-wcawiLJRkGqHmozR.1.a0cb4307QzARKA)
 
-百度开发者中心：[https://developer.baidu.com/](https://developer.baidu.com/)\
+百度开发者中心：[https://developer.baidu.com/](https://developer.baidu.com/)
 
+火山引擎：[https://developer.volcengine.com/](https://developer.volcengine.com/)
+
+京东云开发者社区：\
+[https://developer.jdcloud.com/column](https://developer.jdcloud.com/column)
 
 
 
@@ -37,7 +41,10 @@ Hacker News：[https://news.ycombinator.com/](https://news.ycombinator.com/)
 
 Techmeme：[https://www.techmeme.com/](https://www.techmeme.com/)\
 \
-国内：\
+国内：
+
+infoQ：
+
 TechWeb：[https://www.techweb.com.cn/](https://www.techweb.com.cn/)
 
 
